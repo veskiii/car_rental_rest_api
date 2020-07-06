@@ -13,7 +13,7 @@ git clone https://github.com/veskiii/car_rental_rest_api
 create database car_rental_db;
 ```
 
-**3. Change username and password as your mysql user in `src/main/resources/application.properties`.**
+**3. Change username and password as your mysql user in** `src/main/resources/application.properties`.
 
 **4. Build and run using maven.**
 ```bash
